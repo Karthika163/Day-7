@@ -1,0 +1,1 @@
+day 7 task completd it contains map,filter, and reduce methods
